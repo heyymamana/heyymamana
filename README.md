@@ -21,4 +21,4 @@ Connect with me:
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyymamana&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyymamana&theme=halloween)](https://git.io/streak-stats)
