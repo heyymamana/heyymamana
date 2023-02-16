@@ -5,7 +5,16 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/heyymamana/"><img align="left" src="https://raw.githubusercontent.com/heyymamana/heyymamana/main/imag/linkedin.png" alt="AMAN A | LinkedIn" width="21px"/></a>
+
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/19206535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19206535" height="30" width="40" /></a>
+<a href="https://discord.gg/Midnight Roam#9440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9440" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uladzislau-saldatsenka-835932250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="#9440" height="30" width="40" /></a>
+<a href="https://www.facebook.com/NightRoam" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" alt="#9440" height="30" width="40" /></a>
+</p>
+<hr>
 
 
 
