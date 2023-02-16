@@ -6,7 +6,6 @@
 ### 🤝 Connect with me:
 
 
-<a href="https://www.linkedin.com/in/heyymamana/"><img align="left" src="https://raw.githubusercontent.com/heyymamana/heyymamana/main/imag/linkedin.svg" alt="AMAN A | LinkedIn" width="21px"/></a>
 
 
 
