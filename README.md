@@ -1,5 +1,6 @@
-- I'm aman am a backend developer and have a good skill in React-native mobile application development . i have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to competiton. i worked on various projects in the field of design and development my approach is simple that i have to make something great! that meets my clients satisfaction.
-<h1> CONNECT WIH ME </h1>
+- I'm AMAN A.
+- am a backend developer and have a good skill in React-native mobile application development . i have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to competiton. i worked on various projects in the field of design and development my approach is simple that i have to make something great! that meets my clients satisfaction.
+<h2> CONNECT WIH ME </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
