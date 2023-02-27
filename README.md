@@ -6,6 +6,7 @@
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/heyymamana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="#9440" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@heyymamana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyymamana" height="30" width="40" /></a>
 </p>
 
 
