@@ -36,9 +36,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyymamana&theme=radical&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyymamana&theme=halloween)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyymamana&layout=compact&theme=vision-friendly-dark)](https://github.com/heyymamana/github-readme-stats)
